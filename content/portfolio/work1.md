@@ -1,8 +1,8 @@
 +++
 date = "2016-11-05T18:25:22+05:30"
-image = "img/portfolio/a4-paper.jpg"
+image = "/img/3.jpeg"
 showonlyimage = true
-title = "Proyecto 1"
+title = "EL APAGÓN"
 weight = 0
 
 +++
