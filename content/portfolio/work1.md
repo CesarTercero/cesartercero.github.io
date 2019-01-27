@@ -19,6 +19,6 @@ Contar lo que teníamos que contar en el lugar en el que debíamos encontrar par
 
 ## El Apagón
 
-<iframe width="560" height="315" src="[https://www.youtube.com/embed/RoqdNeN3tDk](https://www.youtube.com/embed/RoqdNeN3tDk "https://www.youtube.com/embed/RoqdNeN3tDk")" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[https://youtu.be/RoqdNeN3tDk](https://youtu.be/RoqdNeN3tDk "https://youtu.be/RoqdNeN3tDk")
 
 ## El Apagón
